@@ -28,14 +28,14 @@ We applied two key techniques to predict water quality:
 Explanation: Linear regression creates a fitted line to predict outcomes based on input variables. In this project, linear regression helps predict water quality metrics, which is critical in understanding trends over time.
 ## K-Nearest Neighbors (K-NN) Regression
 Explanation: K-NN regression utilizes the KNN algorithm to predict values. We applied this method to variables like pH min, specific conductance, temperature mean, and dissolved oxygen mean to predict pH max. Predicting pH max is important because extreme pH levels can have significant effects on water quality and usability.
-#What We Want to Know
+# What We Want to Know
 The goal is to predict water quality daily for the state of Georgia. Specifically, we want to create a model that predicts pH max based on pH min, specific conductance, temperature, and dissolved oxygen levels.
 
 # Project Structure
 Getting Started.
-Download the ipynb file.
-Download the dataset from the UCI Water Quality Prediction Dataset.
-Download the dataset given in the repository.
+- Download the ipynb file.
+- Download the dataset from the UCI Water Quality Prediction Dataset.
+- Download the dataset given in the repository.
 
 # Conclusion
 This project provides insights into water quality prediction in Georgia, focusing on factors such as specific conductance, pH, and dissolved oxygen. The use of RANSAC linear regression and K-NN regression allows us to build predictive models that can assist in making informed environmental decisions.
