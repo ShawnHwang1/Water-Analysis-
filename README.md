@@ -1,4 +1,4 @@
-# Water-Analysis-
+# Water-Analysis
 Personal research project on water quality.
 # Water Quality Prediction
 This project aims to predict water quality based on historical data. Water is a vital resource for life, but its quality is susceptible to various threats, such as acidity, pH, and pollution. Accurate predictions of water quality allow us to identify risks early and take precautionary measures, potentially aiding environmental agencies in decision-making processes, from enacting new regulations to identifying areas of focus.
